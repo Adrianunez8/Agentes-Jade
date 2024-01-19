@@ -1,0 +1,1 @@
+El archivo contiene las librerias y recursoso necesarios para ejecutar el proyecto en IDE Netbeans.
