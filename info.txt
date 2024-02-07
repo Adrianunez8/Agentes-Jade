@@ -1,1 +1,7 @@
-El archivo contiene las librerias y recursoso necesarios para ejecutar el proyecto en IDE Netbeans.
+El archivo contiene las librerias y recursos necesarios para ejecutar el proyecto en IDE Netbeans.
+
+    Entorno Jade: version(4.6.0) https://jade.tilab.com/download/jade/
+    jdk(java): 8 ,11 o superior
+    El archivo con las librerias jade.jar
+
+
