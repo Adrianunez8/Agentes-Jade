@@ -1,0 +1,12 @@
+@relation actividades
+
+@Attribute estudiante string
+@attribute estilo_aprendizaje {visual, auditivo, kinestesico}
+@attribute inteligencia_multiple {linguistica, logicomatematica, visual, musical}
+@attribute actividad {estudiarmatematicas, practicarmusica, Ver_videosdeltemaatratar, practicar_o_eschucar_musica_para_su_relajacion_https://www.youtube.com/watch?v=Fe9LYCorfiE}
+
+@data
+Juan, visual, logicomatematica, Ver_videosdeltemaatratar
+Pedro, auditivo, musical, practicar_o_eschucar_musica_para_su_relajacion_https://www.youtube.com/watch?v=Fe9LYCorfiE
+
+

@@ -1,0 +1,14 @@
+@relation estudiantes
+
+@attribute estiloAprendizaje {Visual,Auditivo,Kinestesico}
+@attribute inteligenciaMultiple {Interpersonal,Naturalista,LogicoMatematico,Musical}
+
+@data
+Visual,Interpersonal
+Auditivo,Naturalista
+Kinestesico,LogicoMatematico
+Visual,LogicoMatematico
+Auditivo,Interpersonal
+Kinestesico,Musical
+
+

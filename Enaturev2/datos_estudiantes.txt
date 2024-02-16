@@ -1,7 +1,0 @@
-JuanPerez,Visual,Interpersonal
-CamiloValdez,Auditivo,Interpersonal
-FranciscoRomero,Auditivo,Naturalista
-AlexCordova,Kinestesico,LogicoMatematico
-EmanuelCastillo,Visual,LogicoMatematico
-JuanEcheverria,Kinestesico,Naturalista
-
